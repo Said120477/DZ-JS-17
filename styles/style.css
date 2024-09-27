@@ -1,0 +1,23 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    line-height: 30px;
+    font-size: 20px;
+    background-color: #faf2f2;
+}
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+span{
+    font-style: italic;
+    font-weight: bold;
+}
+.total{
+    font-style: italic;
+    font-size: 50px;
+    color: green;
+    letter-spacing: 3px;
+}
